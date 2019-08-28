@@ -1,0 +1,25 @@
+
+7
+Main.py,1/8/1826fc8d86cb86ebc0c3414262d81dc5f5b14ea5
+F
+AbstractAnimalClass.py,0/0/00a56360eb8c56f02299055459d6d5415719cea0
+6
+Dog.py,0/2/0264afb25903e15301f0ca77aed15f582de79141
+7
+Bird.py,5/5/55c5434d324f48ea65c20e96d8df96c76b8b06d3
+F
+FactoryPattern/Bird.py,9/b/9bab84e5cf8e82ae4954f7c6e4bdbaea5e33d296
+F
+FactoryPattern/Main.py,e/3/e33f0a513f6c0bb9bcb1cb29e0b91ca22cc8e1fb
+E
+FactoryPattern/Dog.py,1/8/1880e6a4265db97bac4de1af47b8b64fd2ab6d58
+U
+%FactoryPattern/AbstractAnimalClass.py,3/1/31b34a2394849b1b3b920564a7ed89186920e8b5
+P
+ AbstractFactory/AnimalFactory.py,a/a/aa61df6f870b912449f2c84e7223237548cdefc7
+P
+ AbstractFactory/HumansFactory.py,1/c/1c129e274802a48a0b7cbbcce46cfe0358dba723
+G
+AbstractFactory/main.py,7/1/710a80e5039a7c012fa453aeab91f7154168c8fc
+R
+"AbstractFactory/AbstractFactory.py,8/c/8caecccc691ac5813fa8ef7d408930cf334af99d
